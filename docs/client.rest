@@ -1,0 +1,4 @@
+### Ask a question
+POST http://localhost:8080/chat
+
+Was it produced before M5?
